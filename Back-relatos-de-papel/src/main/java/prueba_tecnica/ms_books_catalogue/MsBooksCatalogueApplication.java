@@ -1,4 +1,4 @@
-package grupo39.ms_books_catalogue;
+package prueba_tecnica.ms_books_catalogue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

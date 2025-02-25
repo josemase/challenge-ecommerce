@@ -1,11 +1,8 @@
-package grupo39.ms_books_catalogue.repository;
+package prueba_tecnica.ms_books_catalogue.repository;
 
-import grupo39.ms_books_catalogue.model.Book;
+import prueba_tecnica.ms_books_catalogue.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-
-import java.util.List;
-import java.util.Optional;
 
 @Repository
 public interface BookRepository extends JpaRepository<Book, Long> {

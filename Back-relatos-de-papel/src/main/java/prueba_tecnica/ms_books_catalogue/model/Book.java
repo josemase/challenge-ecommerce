@@ -1,4 +1,4 @@
-package grupo39.ms_books_catalogue.model;
+package prueba_tecnica.ms_books_catalogue.model;
 
 import jakarta.persistence.*;
 import lombok.Data;  // Lombok para generar getters, setters, toString, equals, hashCode, etc.

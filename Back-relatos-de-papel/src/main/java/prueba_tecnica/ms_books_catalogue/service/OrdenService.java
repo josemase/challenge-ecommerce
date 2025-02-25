@@ -1,9 +1,8 @@
-package grupo39.ms_books_catalogue.service;
+package prueba_tecnica.ms_books_catalogue.service;
 
 
-import grupo39.ms_books_catalogue.model.Book;
-import grupo39.ms_books_catalogue.model.Orden;
-import grupo39.ms_books_catalogue.repository.OrdenRepository;
+import prueba_tecnica.ms_books_catalogue.model.Orden;
+import prueba_tecnica.ms_books_catalogue.repository.OrdenRepository;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

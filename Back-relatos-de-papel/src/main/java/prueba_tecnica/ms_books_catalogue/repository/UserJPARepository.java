@@ -1,6 +1,6 @@
-package grupo39.ms_books_catalogue.repository;
+package prueba_tecnica.ms_books_catalogue.repository;
 
-import grupo39.ms_books_catalogue.model.User;
+import prueba_tecnica.ms_books_catalogue.model.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
 

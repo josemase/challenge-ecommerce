@@ -1,8 +1,8 @@
-package grupo39.ms_books_catalogue.controller;
+package prueba_tecnica.ms_books_catalogue.controller;
 
 
-import grupo39.ms_books_catalogue.model.Orden;
-import grupo39.ms_books_catalogue.service.OrdenService;
+import prueba_tecnica.ms_books_catalogue.model.Orden;
+import prueba_tecnica.ms_books_catalogue.service.OrdenService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

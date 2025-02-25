@@ -1,10 +1,9 @@
-package grupo39.ms_books_catalogue.controller;
+package prueba_tecnica.ms_books_catalogue.controller;
 
 
-import grupo39.ms_books_catalogue.model.User;
-import grupo39.ms_books_catalogue.service.UserService;
+import prueba_tecnica.ms_books_catalogue.model.User;
+import prueba_tecnica.ms_books_catalogue.service.UserService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.data.repository.query.Param;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;

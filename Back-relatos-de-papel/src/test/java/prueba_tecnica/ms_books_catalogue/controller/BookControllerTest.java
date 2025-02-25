@@ -1,6 +1,6 @@
-package grupo39.ms_books_catalogue.controller;
-import grupo39.ms_books_catalogue.model.Book;
-import grupo39.ms_books_catalogue.repository.BookRepository;
+package prueba_tecnica.ms_books_catalogue.controller;
+import prueba_tecnica.ms_books_catalogue.model.Book;
+import prueba_tecnica.ms_books_catalogue.repository.BookRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;

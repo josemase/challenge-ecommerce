@@ -1,10 +1,8 @@
-package grupo39.ms_books_catalogue.service;
+package prueba_tecnica.ms_books_catalogue.service;
 
-import grupo39.ms_books_catalogue.model.Book;
-
-import grupo39.ms_books_catalogue.model.User;
-import grupo39.ms_books_catalogue.repository.UserJPARepository;
-import grupo39.ms_books_catalogue.repository.UserRepository;
+import prueba_tecnica.ms_books_catalogue.model.User;
+import prueba_tecnica.ms_books_catalogue.repository.UserJPARepository;
+import prueba_tecnica.ms_books_catalogue.repository.UserRepository;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -12,7 +10,6 @@ import com.github.fge.jsonpatch.JsonPatchException;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.fge.jsonpatch.JsonPatchException;
 import com.github.fge.jsonpatch.mergepatch.JsonMergePatch;
 import java.util.List;
 import java.util.Optional;

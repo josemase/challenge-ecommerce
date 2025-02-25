@@ -1,4 +1,4 @@
-package grupo39.ms_books_catalogue.model;
+package prueba_tecnica.ms_books_catalogue.model;
 
 
 import jakarta.persistence.*;

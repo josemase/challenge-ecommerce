@@ -1,7 +1,7 @@
-package grupo39.ms_books_catalogue.controller;
+package prueba_tecnica.ms_books_catalogue.controller;
 
-import grupo39.ms_books_catalogue.model.Book;
-import grupo39.ms_books_catalogue.service.BookService;
+import prueba_tecnica.ms_books_catalogue.model.Book;
+import prueba_tecnica.ms_books_catalogue.service.BookService;
 import lombok.RequiredArgsConstructor;  // Lombok para generar el constructor con todos los parámetros finales.
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
